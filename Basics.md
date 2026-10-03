@@ -1387,8 +1387,10 @@ Therefore, when troubleshooting an OpenShift application that cannot reach an ex
 This gives you a **project-ready way of thinking about network connectivity rather than memorizing individual commands.**
 
 You can save this directly as **`NAT-and-Proxy.md`** in your GitHub notes repository. If you want, I can also create the next matching note: **`Routing-ARP-DNS-Firewall.md`**, which ties this together into one complete **Linux network troubleshooting flow**.
-
-
+**
+#############
+NAT Linux EXCELLENT https://adil.medium.com/how-do-snat-and-dnat-work-on-linux-4203bc756ffb
+#############**
 NAT:https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-address-translation-nat.html
 
 
