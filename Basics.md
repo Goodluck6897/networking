@@ -1390,3 +1390,7 @@ You can save this directly as **`NAT-and-Proxy.md`** in your GitHub notes reposi
 
 
 NAT:https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-address-translation-nat.html
+
+
+<img width="663" height="449" alt="image" src="https://github.com/user-attachments/assets/27b6ca5f-674d-4bc9-a5d9-a978e13ddc04" />
+
