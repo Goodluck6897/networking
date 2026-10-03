@@ -20,4 +20,20 @@ Network-address host
 
 <img width="1031" height="595" alt="image" src="https://github.com/user-attachments/assets/6bf71f10-b228-4a24-8538-ad598d85e036" />
 
+Networking will have
+Class A
+Class B..
 
+suppose class A has 50 IPS
+IP 1 wantsw to taks to IP 2 then IP A contacts switch and switch will allow to talk to IP 2
+
+Supppose class B has 50 Ips
+Ip-1 in class A wants to talk to Ip-9 in calss B then 
+Ip-1-->Switch-->router-->Switch (in calss B)--> IP-9
+Router helps inter network comunication
+
+
+Router is LAYER 3
+SWITCH LAYER 2
+
+IF  a ServerA wants to tallk to ServerBA with server name. your router talks to DNS server and gets IP address
