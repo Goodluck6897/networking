@@ -13,3 +13,9 @@ The grouping of uplinks is called NIC teams
 <img width="976" height="488" alt="image" src="https://github.com/user-attachments/assets/0d8e7615-b6c6-409b-8e74-2a2866349208" />
 
 
+
+<img width="952" height="465" alt="image" src="https://github.com/user-attachments/assets/769a23e8-c89b-47e0-93e6-732ffc63ad19" />
+
+
+
+
